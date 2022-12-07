@@ -1,0 +1,18 @@
+{application, textual, [
+    {description, "Textual transformation and analysis"},
+    {vsn, semver},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {env, []},
+    {modules, []},
+
+    {licenses, ["MIT"]},
+    {links, [
+        {"Changelog",
+            "https://github.com/eproxus/textual/blob/master/CHANGELOG.md"},
+        {"GitHub", "https://github.com/eproxus/textual"}
+    ]}
+]}.
