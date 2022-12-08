@@ -28,7 +28,7 @@
 
 -define(DEFAULT_OPTS, #{style => apa, abbr => keep}).
 
--define(RE_SENTENCE, <<"((?::|\\.)\s*)"/utf8>>).
+-define(RE_SENTENCE, <<"((?::|\\.|\"|;)\s*)"/utf8>>).
 -define(RE_WORDS, <<"(\s|,|\\(|\\)|-|—|\\/)"/utf8>>).
 
 %--- API -----------------------------------------------------------------------

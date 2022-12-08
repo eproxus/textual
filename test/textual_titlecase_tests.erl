@@ -81,6 +81,10 @@ sentence_test_() ->
                 {
                     "Train Your Mind for Peak Performance: A Science-Based Approach for Achieving Your Goals",
                     "train your mind For peak performance: a science-based approach For achieving your goals"
+                },
+                {
+                    "Multi-Sentence: \"The Direct Quote\" A Story in Three Parts; An Annotated Text. And Fixed",
+                    "multi-sentence: \"the direct quote\" a story in three parts; an annotated text. and fixed"
                 }
             ]
         ])}.
